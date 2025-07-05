@@ -23,12 +23,6 @@ Hi there! 👋 I'm Abdelrhman, a computer science graduate enthusiastic about le
 ### Connect with Me:
 <p align="left">
     <a href="https://www.linkedin.com/in/abdelrhmankamal/" target="blank">
-        <img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-512x512-myo6evy9.png" alt="Linkedin" height="40" width="40" />
+        <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Linkedin" height="45" width="45" />
     </a>
-</p>
-
-### My GitHub Stats:
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmankamall&show_icons=true&locale=en&layout=compact" alt="abdelrhmankamall" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmankamall&show_icons=true&locale=en" alt="abdelrhmankamall" />
 </p>
